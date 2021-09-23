@@ -1,0 +1,14 @@
+img{
+    width:30%;
+    margin: 1.6666%
+}
+nav{
+    text-transform: uppercase;
+    border-bottom: 3px solid #d2ddd386;
+    width:35%;
+    margin-left: 1.6666%;
+    padding:20px;
+    font-family: 'Ephesis', cursive;
+    font-weight: bold;
+
+}
